@@ -69,7 +69,7 @@ const dateFormat = {
 
 // API handling
 const api = {
-    baseUrl: 'https://api.theemma.com', // Thay thế bằng URL API thực tế
+    baseUrl: 'https://api.kaibakery.com', // Thay thế bằng URL API thực tế
 
     async request(endpoint, options = {}) {
         try {
